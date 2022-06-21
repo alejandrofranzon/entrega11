@@ -61,7 +61,7 @@
  .contenedor .footer {
     background: rgb(255, 255, 255);
     padding: 10px;
-    border-radius: 4px;
+    border-radius: 2px;
  }
 
  .contenedor .header {
@@ -106,8 +106,9 @@
  }
   
  .contenedor .footer {
-    background-image: linear-gradient(to left,black,rgb(83, 87, 80),black);
+    background-image: linear-gradient(to left,black,rgb(255, 255, 255),black);
     color: white;
+    justify-content: center;
     grid-area: footer;
  }
  
@@ -179,7 +180,7 @@
  }
  
  .contenedorsociales .footersociales {
-    background-image: linear-gradient(to left,black,rgb(6, 176, 255),black);
+    background-image: linear-gradient(to left,black,rgb(255, 255, 255),black);
     color: rgb(255, 255, 255);
     grid-area: footersociales;
  }
@@ -247,7 +248,7 @@
  
  .contenedoracti .footeracti {
     grid-area: footeracti;
-    background-image: linear-gradient(to left,black,rgb(6, 176, 255),black);
+    background-image: linear-gradient(to left,black,rgb(255, 255, 255),black);
     color: white;
  }
  
@@ -316,7 +317,7 @@
  
  .contenedorserv .footerserv{
     grid-area: footerserv;
-    background-image: linear-gradient(to left,black,rgb(6, 176, 255),black);
+    background-image: linear-gradient(to left,black,rgb(255, 255, 255),black);
     color: white;
  }
   

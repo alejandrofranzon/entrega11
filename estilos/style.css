@@ -83,7 +83,7 @@ h3 {
 .contenedor .footer {
   background: rgb(255, 255, 255);
   padding: 10px;
-  border-radius: 4px;
+  border-radius: 2px;
 }
 
 .contenedor .header {
@@ -138,8 +138,9 @@ h3 {
 }
 
 .contenedor .footer {
-  background-image: linear-gradient(to left, black, rgb(83, 87, 80), black);
+  background-image: linear-gradient(to left, black, rgb(255, 255, 255), black);
   color: white;
+  justify-content: center;
   grid-area: footer;
 }
 
@@ -205,7 +206,7 @@ h3 {
 }
 
 .contenedorsociales .footersociales {
-  background-image: linear-gradient(to left, black, rgb(6, 176, 255), black);
+  background-image: linear-gradient(to left, black, rgb(255, 255, 255), black);
   color: rgb(255, 255, 255);
   grid-area: footersociales;
 }
@@ -270,7 +271,7 @@ h3 {
 
 .contenedoracti .footeracti {
   grid-area: footeracti;
-  background-image: linear-gradient(to left, black, rgb(6, 176, 255), black);
+  background-image: linear-gradient(to left, black, rgb(255, 255, 255), black);
   color: white;
 }
 
@@ -334,7 +335,7 @@ h3 {
 
 .contenedorserv .footerserv {
   grid-area: footerserv;
-  background-image: linear-gradient(to left, black, rgb(6, 176, 255), black);
+  background-image: linear-gradient(to left, black, rgb(255, 255, 255), black);
   color: white;
 }
 
