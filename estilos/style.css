@@ -26,6 +26,30 @@ h3 {
   font-size: 200%;
 }
 
+.btn--twitter {
+  background-color: #17c1ff;
+}
+
+.btn--facebook {
+  background-color: #1500ff;
+}
+
+.btn--instagram {
+  background-color: #f1560e;
+}
+
+.fa-twitter {
+  color: #17c1ff;
+}
+
+.fa-facebook {
+  color: #1500ff;
+}
+
+.fa-instagram {
+  color: #f1560e;
+}
+
 .contenedor {
   width: 90%;
   max-width: 1000px;
